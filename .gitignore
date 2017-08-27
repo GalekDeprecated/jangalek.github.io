@@ -1,0 +1,9 @@
+composer.lock
+.idea/deployment.xml
+.idea/inspectionProfiles/
+.idea/jangalek.github.io.iml
+.idea/modules.xml
+.idea/webServers.xml
+.idea/workspace.xml
+output/
+vendor/
