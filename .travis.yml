@@ -7,7 +7,7 @@ install:
 
 script:
     # check Coding Standard
-    - vendor/bin/ecs check bin src
+    # - vendor/bin/ecs check bin src
     # check PHPStan
     #- vendor/bin/phpstan analyse bin src --level max
     # test that website is generated
